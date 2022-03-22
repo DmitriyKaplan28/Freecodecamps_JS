@@ -1,0 +1,2 @@
+const myName = "Dmitriy";
+const myStr = "My name is " + myName + " and i am well!";
